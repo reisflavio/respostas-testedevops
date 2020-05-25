@@ -1,0 +1,17 @@
+1 - É enviado uma requisição HTTP para o servidor onde o site está hospedado.
+Caso retorne ok, é enviado uma cópia para o cliente que enviou a requisição.
+
+2 - Não consegui resolver esta questão.
+
+3 - Autenticação no servidor smtp.
+
+4 - 98732.tcdn.com.br
+
+    177.67.115.98
+
+    Teste de ping nos dois sites mostram o CNAME e o respectivos IPS de apontamento A.
+    Ao testar o ping no cname 98732.tcdn.com.br consegui o apontamento A para a loja informada.
+
+5 - Utilizo normalmente o Zabbix, onde posso monitorar ping, porta, etc...
+
+6 - Irá apagar todos os arquivos no diretório raiz e volumes montados.
