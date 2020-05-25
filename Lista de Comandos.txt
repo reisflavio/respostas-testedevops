@@ -1,0 +1,15 @@
+sudo vi /etc/netplan/50-cloud-init.yaml
+sudo netplan try
+sudo netplan apply
+
+sudo vi /etc/apache2/sites-available/000-default.conf
+
+ls
+
+mv
+
+ls -l
+
+cd /tmp/
+
+sudo chmod 775 /var/www/ -R
