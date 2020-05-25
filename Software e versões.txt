@@ -1,0 +1,5 @@
+Pacote Lamp
+
+Apache
+MySQL
+Php7.2
